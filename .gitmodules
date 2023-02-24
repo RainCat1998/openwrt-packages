@@ -1,0 +1,13 @@
+[submodule "luci-theme-atmaterial-ColorIcon"]
+	path = luci-theme-atmaterial-ColorIcon
+	url = https://github.com/RainCat1998/luci-theme-atmaterial-ColorIcon
+[submodule "luci-theme-opentomcat"]
+	path = luci-theme-opentomcat
+	url = https://github.com/RainCat1998/luci-theme-opentomcat
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon
+	branch = 18.06
+[submodule "luci-app-argon-config"]
+	path = luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config
